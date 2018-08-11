@@ -1,0 +1,7 @@
+<project>
+ <modelVersion>4.0.0</modelVersion>
+    <groupId>ru.new_rep</groupId>
+   <artifactId>chapter_001</artifactId>
+   <version>2.0</version>
+   <packaging>jar</packaging>
+</project>
